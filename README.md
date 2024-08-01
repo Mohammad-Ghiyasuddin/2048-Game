@@ -15,8 +15,15 @@ This game project is originally made by Gabriele Cirulli and updated by me (Moha
 
 
 2. Built Docker image from Dockerfile.
-3. Deployed Docker image to Google Cloud Container Registry:
+3. Pushed Docker image to Google Cloud Container Registry:
    ```bash
    docker build -t gcr.io/project_id/appname:version .
    docker push gcr.io/project_id/2048-game:v01
-4. Deployed dockerfile on google cloud run  a serverless environment.
+![Container Registry](https://drive.google.com/uc?export=view&id=1xJ1MmfkhEaR0qORss3W-mwLEuWrdVATs)
+
+4. Created Google Cloud run service
+![Cloud Run Service](https://drive.google.com/uc?export=view&id=1VYDmdWBi-i32EICZkQjyGR2CkmGt9B_O)
+
+
+5. Successfully deploy on google cloud run a serverless environment.
+![UI](https://drive.google.com/uc?export=view&id=1XW0X_olGbta7Ft0sWifZ0zBOLgP9VdcS)
