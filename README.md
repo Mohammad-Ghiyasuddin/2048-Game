@@ -9,7 +9,8 @@ This game project is originally made by Gabriele Cirulli and updated by me (Moha
 ## Steps
 
 1. Created Dockerfile.
-![Dockerfile](https://drive.google.com/file/d/1caN8vEyLRgZZGlUUmV-ifUb8HjjuBnHQ/view?usp=sharing)
+
+![Dockerfile](https://drive.google.com/uc?export=view&id=1caN8vEyLRgZZGlUUmV-ifUb8HjjuBnHQ)
 
 
 2. Built Docker image from Dockerfile.
